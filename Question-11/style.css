@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(235, 238, 238);
+}
+input{
+    max-width: 25vh;
+    margin: 0rem auto;
+    padding: 0.5rem 1rem;
+    text-align: center;
+    border: solid rebeccapurple 2px;    
+}
+#main-div{
+     width: 50%;
+     margin: auto;
+     margin-top: 20rem;
+     text-align: center;
+}
+button{
+    border: solid black 3px;
+    width: auto;
+   
+    margin: 1rem 3rem;
+}
+#output-div{
+    padding: 1rem 2rem;
+    font-size: larger;
+    font-weight: bold;
+    color: black;    
+}
